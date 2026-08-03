@@ -1,21 +1,20 @@
-### Тестовое задание HTML-верстальщик (Frontend-разработчик)
+# Rocont
 
 ## Описание проекта:
 
-Тестовое задание представляет собой верстку страницы по макету ([ссылка в Figma](https://www.figma.com/design/d6Gd8D8h34KPq8Efi8fZes/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-2025?node-id=0-1&p=f&t=bNO4hQUx7Pv9Gq83-0)), с соблюдением принципов адаптивного дизайна.
+Одностраничный лендинг "Rocont", разработанный по макету ([ссылка в Figma](https://www.figma.com/design/d6Gd8D8h34KPq8Efi8fZes/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-2025?node-id=0-1&p=f&t=bNO4hQUx7Pv9Gq83-0)) в рамках тестового задания на позицию Frontend-разработчика/HTML-разработчика
 
-## Используемый стек:
+## Технологии:
 
-JavaScript, HTML, SCSS
+- HTML5
+- CSS3
+- JavaScript
+  
+## Как запустить
 
-## Ссылка на деплой проекта:
+1. Откройте файл index.html в браузере
+2. Для удобства можно использовать Live Server или любой другой локальный сервер
+
+## Live Demo
 
 https://rocont-test-task-ruddy.vercel.app/
-
-## Установка и запуск приложения:
-
-1.Клонировать репозиторий на свое устройство git clone https://github.com/lerkooow/RocontTestTask.git
-
-2.Установить зависимости npm install
-
-3.Запустить приложение npm run dev
